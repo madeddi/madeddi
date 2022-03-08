@@ -1,9 +1,9 @@
-<h1 align="center">PrintfDead</h1>
+<h1 align="center">Madeddi</h1>
 <p align="center" align-items="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=madeddi"/><br><br>
   <p align="center">
-    <code>Sobre mi</code><br><br>
-    <p align="center">I am a student of programming and pentesting, everything that is in this repository must be used properly. <br> <a href="https://rip.akaprintf.ml/">ar.akprintf.rip (Proximamente)</a></p>
+    <code>About me</code><br><br>
+    <p align="center">I am a student of programming and pentesting, everything that is in this repository must be used properly. <br> <a href="https://www.youtube.com/channel/UC41J2k2ByGup5LoP_6ioK7Q">Channel</a></p>
   </p><br><br>
   <p align="center">
     <code>Arbol de tecnologias</code><br><br>
